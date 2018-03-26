@@ -1,2 +1,3 @@
 # udo
-A wrapper to improve sudo
+
+It's like **sudo -s** but better.
